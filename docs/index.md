@@ -1,6 +1,6 @@
-# Bienvenu·e·s sur DocuLXP
+# Bienvenu·e·s sur BacLXP
 
-Ce site centralise des ressources pédagogiques en physique, chimie, enseignement scientifique, informatique et technologie.
+Ce site centralise des ressources pour se préparer au Bac au Lycée Expérimental de Saint-Nazaire.
 
 [:octicons-book-16: Accéder à la biblio](https://biblio.lycee-experimental.org){ .md-button }[:octicons-video-16: Accéder à la vidéo](https://video.lycee-experimental.org){ .md-button }
 
