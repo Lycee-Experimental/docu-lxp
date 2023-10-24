@@ -1,0 +1,202 @@
+site_name: DocuLXP
+site_description: 'La documentation du LXP'
+site_url: 'https://docu.lycee-experimental.org/'
+site_dir: docs-build
+docs_dir: docs
+
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Passer au mode nuit
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Passer au mode jour
+  features:
+    - content.code.annotate
+    - content.code.copy
+    # - content.tabs.link
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.integrate
+extra_css:
+  - 'css/extra.css'
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+  # Portes logiques : https://github.com/jppellet/Logic-Circuit-Simulator
+  - js/bundle.js
+  # Quizz : https://github.com/bonartm/quizdown-js
+  - js/quizdown.js
+  - js/quizdownHighlight.js
+  - js/quizdownKatex.js
+  - js/extra.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Lycee-Experimental
+
+plugins:
+  - search
+  - charts
+  - macros
+  - mkdocs-video
+# Extensions
+markdown_extensions:
+  - children_toc_extension:ChildTocExtension
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - markdown.extensions.meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      base_path: docs
+  - pymdownx.superfences:
+      custom_fences:
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: quiz
+          class: python
+          format: !!python/name:custom_fences.custom_formatter
+          no-paragraph: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - codehilite:
+      css_class: code
+      use_pygments: false
+      guess_lang: false
+
+extra_files:
+  - '*.source'
+# Page tree
+nav:
+  - Accueil: index.md
+  - Maths: http://xkerbiriou.free.fr/
+  - Enseignement Scientifique:
+    - es/index.md
+    - 🌍 Terre 🟡: es/terre/index.md
+    - ☀️ Soleil 🟡: es/soleil/index.md
+    - 🔊 Son 🟡:
+      - Introduction: es/son/intro.md
+      - Les ondes sonores: es/son/ondes.md
+      - Les maths de la musique: es/son/maths.md
+      - La numérisation: es/son/numerisation.md
+      - L'oreille: es/son/oreille.md
+    - 🌦️ Climat 🔴: es/climat/index.md
+    - 🐼 Biodiversité 🔴: es/biodiv/index.md
+    - ⚡ Électricité 🔴: es/elec/index.md
+  - Physique/Chimie:
+    - Optique: 
+      - Introduction: optique/intro.md
+      - Propagation et autres: optique/propa.md
+      - Les spectres: optique/spectres.md
+      - 🟡 Couleurs: optique/couleurs.md
+      - 🟡 Les lentilles: 
+        - Constructions graphiques: optique/lentille/lentille-graphique.md
+        - Calculs: optique/lentille/lentille-calcul.md
+      - 🟡 Les photons: optique/photon.md
+      - 🔴 Interférence et diffraction: optique/interference.md
+      - 🔴 Les téléscopes: optique/telescope.md
+    - Electricité: 
+      - Introduction: elec/intro.md
+      - Histoire: elec/histoire.md
+      - Le Courrant I: elec/intensite.md
+      - La Tension U: elec/tension.md
+      - La Résistance R: elec/resistance.md
+      - Puissance P: elec/puissance.md
+      - 🔴 Les Condensateurs C: elec/condensateur.md
+      - Vers le bac: elec/sujets_bac_elec.md
+
+    - Mécanique:
+      - Introduction: meca/intro.md
+      - Rappels de collège: meca/college.md
+      - 🟢 Déter:
+        - La notion de force: meca/deter/force.md
+        - Le mouvement: meca/deter/mouvement.md
+        - Le principe d'inertie: meca/deter/inertie.md
+      - 🟡 Première:
+        - Champs gravitationnels et électrostatiques: meca/premiere/champs.md 
+        - Le vecteur variation de vitesse: meca/premiere/vitesse.md
+        - Travail d'une force: meca/premiere/travail.md
+        - Statique des fluides: meca/premiere/fluide.md
+      - 🔴 Terminale:
+        - Vecteur accélération: meca/terminale/vecteur.md
+        - Mouvement dans un champ uniforme: meca/terminale/champs.md
+        - Mouvements des satellites: meca/terminale/satellite.md
+    - Chimie:
+      - Introduction: chimie/index.md
+      - Atomes et éléments chimiques: chimie/atome/index.md
+      - Ions: chimie/ion/index.md
+      - Molécules: chimie/molecule/index.md
+      - Réactions chimiques: 
+        - Introduction: chimie/reaction/index.md
+        - 🟢 Les bases: chimie/reaction/reaction.md
+        - 🟡 Réaction redox: chimie/reaction/redox.md
+        - 🔴 Réaction acide/base: chimie/reaction/acide.md
+      - Méthodes de caractérisation: chimie/caracterisation/index.md
+      - Solutions et dosages: 
+        - Introduction: chimie/solution/index.md
+        - Réaliser des solutions: chimie/solution/realisation.md
+        - Dosages: chimie/solution/dosage.md
+        - Calculs en chimie: chimie/solution/calcul.md
+      - Chimie organique: chimie/orga/index.md
+  - Informatique (NSI): https://nsi.lycee-experimental.org   
+  - Vers le bac:
+    - bac/index.md
+    - Les épreuves: bac/epreuves.md
+    - Les sujets: bac/sujets.md
+
