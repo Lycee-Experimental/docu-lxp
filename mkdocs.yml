@@ -1,6 +1,6 @@
-site_name: DocuLXP
+site_name: BacLXP
 site_description: 'La documentation du LXP'
-site_url: 'https://docu.lycee-experimental.org/'
+site_url: 'https://bac.lycee-experimental.org/'
 site_dir: docs-build
 docs_dir: docs
 
