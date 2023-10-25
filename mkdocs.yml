@@ -130,16 +130,17 @@ nav:
     - es/index.md
     - 🌍 Terre 🟡: es/terre/index.md
     - ☀️ Soleil 🟡: es/soleil/index.md
-    - 🔊 Son 🟡:
-      - Introduction: es/son/intro.md
-      - Les ondes sonores: es/son/ondes.md
-      - Les maths de la musique: es/son/maths.md
-      - La numérisation: es/son/numerisation.md
-      - L'oreille: es/son/oreille.md
+    - 🔊 Son 🟡: es/son/index.md
     - 🌦️ Climat 🔴: es/climat/index.md
     - 🐼 Biodiversité 🔴: es/biodiv/index.md
     - ⚡ Électricité 🔴: es/elec/index.md
   - Physique/Chimie:
+    - Son: 
+      - Introduction: son/intro.md
+      - Les ondes sonores: son/ondes.md
+      - Les maths de la musique: son/maths.md
+      - La numérisation: son/numerisation.md
+      - L'oreille: son/oreille.md
     - Optique: 
       - Introduction: optique/intro.md
       - Propagation et autres: optique/propa.md
