@@ -17,7 +17,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PYTHONPATH: ${{github.workspace}}
-          CUSTOM_DOMAIN: docu.lycee-experimental.org
+          CUSTOM_DOMAIN: bac.lycee-experimental.org
           CONFIG_FILE: mkdocs.yml
           EXTRA_PACKAGES: build-base
           # GITHUB_DOMAIN: github.myenterprise.com
