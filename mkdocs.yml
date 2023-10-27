@@ -125,7 +125,27 @@ extra_files:
 # Page tree
 nav:
   - Accueil: index.md
-  - Maths: http://xkerbiriou.free.fr/
+  - Maths: 
+    - maths/index.md
+    - Tronc commun 🟡:
+      - maths/tc/index.md
+      - Automatismes: maths/tc/automatismes.md
+      - Informations chiffrées: maths/tc/info-chiffree.md
+      - Phénomènes aléatoires : maths/tc/proba.md
+      - Croissance linéaire: maths/tc/lineaire.md
+      - Croissance exponentielle: maths/tc/exponentielle.md
+      - Variations: maths/tc/variations.md
+    - Spécialité 🟡:
+      - maths/spe/index.md
+      - Second degré: maths/spe/2nd-degre.md
+      - Suites numériques (généralités): maths/spe/suite.md
+      - Dérivation (1): maths/spe/deriv.md
+      - Probabilités conditionnelles: maths/spe/proba.md
+      - Suites arithmétiques et géométriques: maths/spe/suite2.md
+      - Produit scalaire: maths/spe/scalaire.md
+      - Dérivation (2): maths/spe/deriv2.md
+      - Variables aléatoires: maths/spe/aleatoire.md
+      - Fonctions exponentielles: maths/spe/exponentielle.md
   - Enseignement Scientifique:
     - es/index.md
     - 🌍 Terre 🟡: es/terre/index.md
