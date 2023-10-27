@@ -31,6 +31,11 @@
         - [Initié](https://www.lelivrescolaire.fr/page/5737880)
         - [Expert](https://www.lelivrescolaire.fr/page/5737865)
 
+    === ":material-nintendo-game-boy: Animations :material-nintendo-game-boy:"
+        **Échantillonnage et quantification d'un son**
+
+        <iframe scrolling="no" title="4-3 Échantillonnage et quantification d'un son." src="https://www.geogebra.org/material/iframe/id/eeqb5a7w/width/1050/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="100%" height="500px" style="border:0px;"> </iframe>
+
 ??? note "Entendre la musique"
     === ":material-movie-open: Vidéos :material-movie-open:"
         ![type:video](https://www.youtube.com/embed/3rSz7BcQsPY)
