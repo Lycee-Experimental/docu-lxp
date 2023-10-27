@@ -1,7 +1,7 @@
 # 🔊 Le son 👂
 
 
-??? note "Le son, phénomène vibratoire"
+??? abstract "Le son, phénomène vibratoire"
     === ":material-movie-open: Vidéos :material-movie-open:"
         ![type:video](https://www.youtube.com/embed/m0m6NLSVsl8)
     === ":material-book-open-variant: Manuel en ligne :material-book-open-variant:"
@@ -11,7 +11,7 @@
         - [Initié](https://www.lelivrescolaire.fr/page/5737869)
         - [Expert](https://www.lelivrescolaire.fr/page/5737863)
 
-??? note "Musique et nombres"
+??? abstract "Musique et nombres"
     === ":material-movie-open: Vidéos :material-movie-open:"
         ![type:video](https://www.youtube.com/embed/hrymB25otZI)
     === ":material-book-open-variant: Manuel en ligne :material-book-open-variant:"
@@ -21,7 +21,7 @@
         - [Initié]()
         - [Expert]()
 
-??? note "Le son, une information à coder"
+??? abstract "Le son, une information à coder"
     === ":material-movie-open: Vidéos :material-movie-open:"
         ![type:video](https://www.youtube.com/embed/l5G0H7FCkdg)
     === ":material-book-open-variant: Manuel en ligne :material-book-open-variant:"
@@ -36,7 +36,7 @@
 
         <iframe scrolling="no" title="4-3 Échantillonnage et quantification d'un son." src="https://www.geogebra.org/material/iframe/id/eeqb5a7w/width/1050/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="100%" height="500px" style="border:0px;"> </iframe>
 
-??? note "Entendre la musique"
+??? abstract "Entendre la musique"
     === ":material-movie-open: Vidéos :material-movie-open:"
         ![type:video](https://www.youtube.com/embed/3rSz7BcQsPY)
     === ":material-book-open-variant: Manuel en ligne :material-book-open-variant:"
@@ -48,23 +48,23 @@
 
 
 ??? question "Sujets BAC"
-    - **Un décret qui fait grand bruit** : [sujet](/assets/sujets/es/1re/AuditionDecret-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-un-decret-qui-fait-grand-bruit.pdf)
-    - **L'oreille et l'audition** : [sujet](/assets/sujets/es/1re/OreilleAudition-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-loreille-et-laudition.pdf)
-    - **Prévention d'un traumatisme acoustique** : [sujet](/assets/sujets/es/1re/TraumatismeAcoustique-1ereSon-Sujet.pdf) - [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-prevention-dun-traumatisme-acoustique.pdf)
-    - **Le son, de l'analogique au numérique** : [sujet](/assets/sujets/es/1re/SonAnaNum-1ereSon-Sujet.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-le-son-de-lanalogique-au-numerique.pdf)
+    ??? note "Un décret qui fait grand bruit : [sujet](/assets/sujets/es/1re/AuditionDecret-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-un-decret-qui-fait-grand-bruit.pdf)"
+    ??? note "L'oreille et l'audition : [sujet](/assets/sujets/es/1re/OreilleAudition-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-loreille-et-laudition.pdf)"
+    ??? note "Prévention d'un traumatisme acoustique : [sujet](/assets/sujets/es/1re/TraumatismeAcoustique-1ereSon-Sujet.pdf) - [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-prevention-dun-traumatisme-acoustique.pdf)"
+    ??? note "Le son, de l'analogique au numérique : [sujet](/assets/sujets/es/1re/SonAnaNum-1ereSon-Sujet.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-le-son-de-lanalogique-au-numerique.pdf)"
 
-    ??? important "En plus pour celleux qui ont la Spé Maths"
-        - Implant cochléaire : [sujet](/assets/sujets/es/1re/ImplantCochleaire-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-implant-cochleaire.pdf)
-        - Pertes auditives après un concert : [sujet](/assets/sujets/es/1re/AuditionConcert-1ereSon-Sujet.pdf) - [indices](/assets/sujets/es/1re/AuditionConcert-1ereSon-Indices.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-perte-auditive-apres-un-concert.pdf) 
-        - Gamme tempérée et gamme de Pythagore : [sujet](/assets/sujets/es/1re/Gammes-1ereSon-Sujet-Temp-Pythagore.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-gamme-temperee-et-gamme-de-pythagore.pdf)
-        - Enregistrements de fichiers sonores : [sujet](/assets/sujets/es/1re/Enregistrement-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-enregistrement-de-fichiers-sonores.pdf)
-        - La numérisation et le stockage d'un son : [sujet](/assets/sujets/es/1re/NumerisationStockageSon-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-la-numerisation-et-le-stockage-dun-son.pdf)
-        - Numérisation et compression d'un signal sonore : [sujet](/assets/sujets/es/1re/Numérisation et compression d'un signal sonore.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-numerisation-et-compression-dun-signal-sonore.pdf)
+    ??? tip "En plus pour celleux qui ont la Spé Maths"
+        ??? note "Implant cochléaire : [sujet](/assets/sujets/es/1re/ImplantCochleaire-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-implant-cochleaire.pdf)"
+        ??? note "Pertes auditives après un concert : [sujet](/assets/sujets/es/1re/AuditionConcert-1ereSon-Sujet.pdf) - [indices](/assets/sujets/es/1re/AuditionConcert-1ereSon-Indices.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-perte-auditive-apres-un-concert.pdf)"
+        ??? note "Gamme tempérée et gamme de Pythagore : [sujet](/assets/sujets/es/1re/Gammes-1ereSon-Sujet-Temp-Pythagore.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-gamme-temperee-et-gamme-de-pythagore.pdf)"
+        ??? note "Enregistrements de fichiers sonores : [sujet](/assets/sujets/es/1re/Enregistrement-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-enregistrement-de-fichiers-sonores.pdf)"
+        ??? note "La numérisation et le stockage d'un son : [sujet](/assets/sujets/es/1re/NumerisationStockageSon-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-la-numerisation-et-le-stockage-dun-son.pdf)"
+        ??? note "Numérisation et compression d'un signal sonore : [sujet](/assets/sujets/es/1re/Numérisation et compression d'un signal sonore.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-numerisation-et-compression-dun-signal-sonore.pdf)"
 
     ??? failure "Plus au programme en 2024"
-        - Les dangers des sons : [sujet](/assets/sujets/es/1re/DangerSon-1ereSon-Sujet.pdf)
-        - Production d'un son : [sujet](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf) - [:material-alpha-c-circle:](/assets/sujets/es/1re/1EnsSci-Correction-ProductionSon.pdf)
-        - Masse tension fréquence : [sujet](/assets/sujets/es/1re/MasseTensionFrequence-1ereSon-Sujet.pdf)
-        - La guitare électrique : [sujet](/assets/sujets/es/1re/GuitareElectrique-1ereSon-Sujet.pdf)
-        - Gamme tempérée et guitare classique : [sujet](/assets/sujets/es/1re/GammeGuitare-1ereSon-Sujet.pdf)
-        - Production d'un son : [sujet](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf)
+        ??? note "Les dangers des sons : [sujet](/assets/sujets/es/1re/DangerSon-1ereSon-Sujet.pdf)"
+        ??? note "Production d'un son : [sujet](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf) - [:material-alpha-c-circle:](/assets/sujets/es/1re/1EnsSci-Correction-ProductionSon.pdf)"
+        ??? note "Masse tension fréquence : [sujet](/assets/sujets/es/1re/MasseTensionFrequence-1ereSon-Sujet.pdf)"
+        ??? note "La guitare électrique : [sujet](/assets/sujets/es/1re/GuitareElectrique-1ereSon-Sujet.pdf)"
+        ??? note "Gamme tempérée et guitare classique : [sujet](/assets/sujets/es/1re/GammeGuitare-1ereSon-Sujet.pdf)"
+        ??? note "Production d'un son : [sujet](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf)"
