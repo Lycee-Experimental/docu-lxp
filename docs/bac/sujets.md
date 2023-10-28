@@ -33,7 +33,7 @@ Les sujets de tronc commun et de la spé abandonnée sont disponibles ci-dessous
             ??? note "Tronc commun Maths 1ère"
                 - [Commercialisation d’un produit](/assets/sujets/TCmaths/Commercialisation d’un produit.pdf)
                 - [Élimination d’une substance dans le sang](/assets/sujets/TCmaths/Élimination d’une substance dans le sang.pdf)
-                - [Étude de l’accidentologie](/assets/sujets/TCmaths/Étude de l’accidentologie.pdf')
+                - [Étude de l’accidentologie](/assets/sujets/TCmaths/Étude de l’accidentologie.pdf)
                 - [Étude de l’utilisation de supports musicaux](/assets/sujets/TCmaths/Étude de l’utilisation de supports musicaux.pdf)
                 - [Étude de population en Argentine et précarité](/assets/sujets/TCmaths/Étude de population en Argentine et précarité.pdf)
                 - [Etude d'une entreprise](/assets/sujets/TCmaths/Etude d'une entreprise.pdf)
@@ -42,7 +42,7 @@ Les sujets de tronc commun et de la spé abandonnée sont disponibles ci-dessous
                 - [Gestion d'un parc animalier](/assets/sujets/TCmaths/Gestion d'un parc animalier.pdf)
                 - [Organisation d'un marathon](/assets/sujets/TCmaths/Organisation d'un marathon.pdf)
                 - [Production de calculatrices](/assets/sujets/TCmaths/Production de calculatrices.pdf)
-                - [Tourisme]('/assets/sujets/TCmaths/Tourisme.pdf')
+                - [Tourisme](/assets/sujets/TCmaths/Tourisme.pdf')
 
             === "☀️ Le Soleil ☀️"
                 - **L'énergie rayonnée par les étoiles et utilisation biologique du rayonnement solaire** [sujet](/assets/sujets/es/1re/Lénergie-rayonnée-par-les-étoiles-et-utilisation-biologique-du-rayonnement-solaire.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/Correction-Lenergie-rayonnee-par-les-etoiles-et-utilisation-biologique-du-rayonnement-solaire.pdf)
