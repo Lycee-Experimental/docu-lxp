@@ -98,7 +98,7 @@
         **Compétences :** Lecture de graphique et schémas, puissances de 10 et conversions Tonnes/kg, rédation de texte argumenté.
     ??? note "Inégalités des émissions de $CO_2$ au niveau mondial et vulnérabilité au changement climatique - [sujet](/assets/sujets/es/term/InegalitesCO2.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-inegalites-des-emissions-de-dioxyde-de-carbone-au-niveau-mondial-et-vulnerabilite-au-changement-climatique.pdf)"
         **Notions :** Consommations énergétiques, emission de CO2, inégalités
-        **Compétences :** Lecture de graphique, appliquer une règle de proportionalité, calculer un pourcentage, réaction de paragraphes argumentés.
+        **Compétences :** Lecture de graphique, appliquer une règle de proportionnalité, calculer un pourcentage, réaction de paragraphes argumentés.
 
 
     ??? failure "Plus au programme 2024"

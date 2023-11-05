@@ -216,8 +216,6 @@ nav:
         - Calculs en chimie: chimie/solution/calcul.md
       - Chimie organique: chimie/orga/index.md
   - Informatique (NSI): https://nsi.lycee-experimental.org   
-  - Vers le bac:
-    - bac/index.md
-    - Les épreuves: bac/epreuves.md
-    - Les sujets: bac/sujets.md
+  - Vers le bac: bac/index.md
+
 
