@@ -72,22 +72,25 @@
 
 
 ??? question "Sujets BAC"
-    ??? note "Histoire d'eau : Deux méthodes historiques permettant d’estimer l’âge de la Terre : [sujet](/assets/sujets/es/1re/AgeTerreEau.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-histoire-deau-deux-methodes-historiques-permettant-destimer-lage-de-la-terre.pdf)"
-    ??? note "Approche historique de l'age de la Terre : [sujet](/assets/sujets/es/1re/AgeTerreKelvinBuffon.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-approche-historique-de-lage-de-la-terre.pdf)"
-    ??? note "Les phases de la Lune [sujet](/assets/sujets/es/1re/Les-phases-de-la-Lune.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/Correction-Les-phases-de-la-Lune.pdf)"
-    ??? note "La lumière cendrée de la Lune : [sujet](/assets/sujets/es/1re/LuneCendree.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-la-lumiere-cendree-de-la-lune.pdf)"
+    :material-alpha-s-circle:{ .sujet} : Sujets  
+    :material-alpha-c-circle:{ .corrige } : Corrigés  
+    :material-alpha-i-circle:{ .indice } : Indices  
+    ??? note "Histoire d'eau : Deux méthodes historiques permettant d’estimer l’âge de la Terre : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AgeTerreEau.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-histoire-deau-deux-methodes-historiques-permettant-destimer-lage-de-la-terre.pdf)"
+    ??? note "Approche historique de l'age de la Terre : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AgeTerreKelvinBuffon.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-approche-historique-de-lage-de-la-terre.pdf)"
+    ??? note "Les phases de la Lune [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Les-phases-de-la-Lune.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/Correction-Les-phases-de-la-Lune.pdf)"
+    ??? note "La lumière cendrée de la Lune : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/LuneCendree.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-la-lumiere-cendree-de-la-lune.pdf)"
 
     ??? tip "En plus pour celleux qui ont la SPé Maths"
-        ??? note "Mesure du méridien terrestre : [sujet](/assets/sujets/es/1re/Meridien.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-mesure-du-meridien-terrestre.pdf)"
-        ??? note "New-York - Pékin en avion : [sujet](/assets/sujets/es/1re/NYPekin.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-new-york-pekin-en-avion.pdf)"
-        ??? note "Terre Plate ou Terre sphérique : [sujet](/assets/sujets/es/1re/TerrePlate.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-terre-plate-ou-terre-spherique.pdf)"
-        ??? note "La forme de la Terre à l’Antiquité : [sujet](/assets/sujets/es/1re/FormeTerre.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-la-forme-de-la-terre-a-lantiquite.pdf)"
-        ??? note "Détermination de l'age de la Terre par Buffon : [sujet](/assets/sujets/es/1re/AgeTerreBuffon.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-determination-de-lage-de-la-terre-par-buffon.pdf)"
+        ??? note "Mesure du méridien terrestre : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Meridien.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-mesure-du-meridien-terrestre.pdf)"
+        ??? note "New-York - Pékin en avion : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/NYPekin.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-new-york-pekin-en-avion.pdf)"
+        ??? note "Terre Plate ou Terre sphérique : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/TerrePlate.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-terre-plate-ou-terre-spherique.pdf)"
+        ??? note "La forme de la Terre à l’Antiquité : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/FormeTerre.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-la-forme-de-la-terre-a-lantiquite.pdf)"
+        ??? note "Détermination de l'age de la Terre par Buffon : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AgeTerreBuffon.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-determination-de-lage-de-la-terre-par-buffon.pdf)"
 
 
     ??? failure "Plus au programme en 2024"
-        ??? note "Détermination de l’âge de la Terre avec algorithme : [sujet](/assets/sujets/es/1re/AgeTerreAlgorithme_1.pdf)"
-        ??? note "L'histoire de l'age de la Terre #1 : [sujet](/assets/sujets/es/1re/AgeTerreErosion.pdf)"
-        ??? note "L'histoire de l'age de la Terre #2 : [sujet](/assets/sujets/es/1re/AgeTerreHistoire.pdf)"
-        ??? note "L'archipel d'Hawaï et les monts de l'empereur : [sujet](/assets/sujets/es/1re/Hawaii.pdf)"
-        ??? note "La Terre, sa composition et sa taille : [sujet](/assets/sujets/es/1re/Nucleosynthese-RayonTerre.pdf)"
+        ??? note "Détermination de l’âge de la Terre avec algorithme : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AgeTerreAlgorithme_1.pdf)"
+        ??? note "L'histoire de l'age de la Terre #1 : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AgeTerreErosion.pdf)"
+        ??? note "L'histoire de l'age de la Terre #2 : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AgeTerreHistoire.pdf)"
+        ??? note "L'archipel d'Hawaï et les monts de l'empereur : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Hawaii.pdf)"
+        ??? note "La Terre, sa composition et sa taille : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Nucleosynthese-RayonTerre.pdf)"

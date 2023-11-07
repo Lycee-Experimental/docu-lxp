@@ -48,23 +48,26 @@
 
 
 ??? question "Sujets BAC"
-    ??? note "Un décret qui fait grand bruit : [sujet](/assets/sujets/es/1re/AuditionDecret-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-un-decret-qui-fait-grand-bruit.pdf)"
-    ??? note "L'oreille et l'audition : [sujet](/assets/sujets/es/1re/OreilleAudition-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-loreille-et-laudition.pdf)"
-    ??? note "Prévention d'un traumatisme acoustique : [sujet](/assets/sujets/es/1re/TraumatismeAcoustique-1ereSon-Sujet.pdf) - [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-prevention-dun-traumatisme-acoustique.pdf)"
-    ??? note "Le son, de l'analogique au numérique : [sujet](/assets/sujets/es/1re/SonAnaNum-1ereSon-Sujet.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-le-son-de-lanalogique-au-numerique.pdf)"
+    :material-alpha-s-circle:{ .sujet} : Sujets  
+    :material-alpha-c-circle:{ .corrige } : Corrigés  
+    :material-alpha-i-circle:{ .indice } : Indices  
+    ??? note "Un décret qui fait grand bruit : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AuditionDecret-1ereSon-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-un-decret-qui-fait-grand-bruit.pdf)"
+    ??? note "L'oreille et l'audition : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/OreilleAudition-1ereSon-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-loreille-et-laudition.pdf)"
+    ??? note "Prévention d'un traumatisme acoustique : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/TraumatismeAcoustique-1ereSon-Sujet.pdf) - [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-prevention-dun-traumatisme-acoustique.pdf)"
+    ??? note "Le son, de l'analogique au numérique : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/SonAnaNum-1ereSon-Sujet.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-le-son-de-lanalogique-au-numerique.pdf)"
 
     ??? tip "En plus pour celleux qui ont la Spé Maths"
-        ??? note "Implant cochléaire : [sujet](/assets/sujets/es/1re/ImplantCochleaire-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-implant-cochleaire.pdf)"
-        ??? note "Pertes auditives après un concert : [sujet](/assets/sujets/es/1re/AuditionConcert-1ereSon-Sujet.pdf) - [indices](/assets/sujets/es/1re/AuditionConcert-1ereSon-Indices.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-perte-auditive-apres-un-concert.pdf)"
-        ??? note "Gamme tempérée et gamme de Pythagore : [sujet](/assets/sujets/es/1re/Gammes-1ereSon-Sujet-Temp-Pythagore.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-gamme-temperee-et-gamme-de-pythagore.pdf)"
-        ??? note "Enregistrements de fichiers sonores : [sujet](/assets/sujets/es/1re/Enregistrement-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-enregistrement-de-fichiers-sonores.pdf)"
-        ??? note "La numérisation et le stockage d'un son : [sujet](/assets/sujets/es/1re/NumerisationStockageSon-1ereSon-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-la-numerisation-et-le-stockage-dun-son.pdf)"
-        ??? note "Numérisation et compression d'un signal sonore : [sujet](/assets/sujets/es/1re/Numérisation et compression d'un signal sonore.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-numerisation-et-compression-dun-signal-sonore.pdf)"
+        ??? note "Implant cochléaire : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/ImplantCochleaire-1ereSon-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-implant-cochleaire.pdf)"
+        ??? note "Pertes auditives après un concert : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AuditionConcert-1ereSon-Sujet.pdf) - [indices](/assets/sujets/es/1re/AuditionConcert-1ereSon-Indices.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-perte-auditive-apres-un-concert.pdf)"
+        ??? note "Gamme tempérée et gamme de Pythagore : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Gammes-1ereSon-Sujet-Temp-Pythagore.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-gamme-temperee-et-gamme-de-pythagore.pdf)"
+        ??? note "Enregistrements de fichiers sonores : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Enregistrement-1ereSon-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-enregistrement-de-fichiers-sonores.pdf)"
+        ??? note "La numérisation et le stockage d'un son : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/NumerisationStockageSon-1ereSon-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-la-numerisation-et-le-stockage-dun-son.pdf)"
+        ??? note "Numérisation et compression d'un signal sonore : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Numérisation et compression d'un signal sonore.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-numerisation-et-compression-dun-signal-sonore.pdf)"
 
     ??? failure "Plus au programme en 2024"
-        ??? note "Les dangers des sons : [sujet](/assets/sujets/es/1re/DangerSon-1ereSon-Sujet.pdf)"
-        ??? note "Production d'un son : [sujet](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf) - [:material-alpha-c-circle:](/assets/sujets/es/1re/1EnsSci-Correction-ProductionSon.pdf)"
-        ??? note "Masse tension fréquence : [sujet](/assets/sujets/es/1re/MasseTensionFrequence-1ereSon-Sujet.pdf)"
-        ??? note "La guitare électrique : [sujet](/assets/sujets/es/1re/GuitareElectrique-1ereSon-Sujet.pdf)"
-        ??? note "Gamme tempérée et guitare classique : [sujet](/assets/sujets/es/1re/GammeGuitare-1ereSon-Sujet.pdf)"
-        ??? note "Production d'un son : [sujet](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf)"
+        ??? note "Les dangers des sons : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/DangerSon-1ereSon-Sujet.pdf)"
+        ??? note "Production d'un son : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf) - [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/1EnsSci-Correction-ProductionSon.pdf)"
+        ??? note "Masse tension fréquence : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/MasseTensionFrequence-1ereSon-Sujet.pdf)"
+        ??? note "La guitare électrique : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/GuitareElectrique-1ereSon-Sujet.pdf)"
+        ??? note "Gamme tempérée et guitare classique : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/GammeGuitare-1ereSon-Sujet.pdf)"
+        ??? note "Production d'un son : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf)"

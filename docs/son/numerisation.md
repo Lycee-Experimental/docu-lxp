@@ -18,7 +18,7 @@
 
 
 === ":material-clipboard-text-multiple: Sujets bac :material-clipboard-text-multiple:"
-    - Production d'un son : [sujet](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf)
-    - Le son, de l'analogique au numérique : [sujet](/assets/sujets/es/1re/SonAnaNum-1ereSon-Sujet.pdf) - [corrigé](/assets/sujets/es/1re/1EnsSci-correction-SonAnaNum.pdf)
-    - Enregistrements de fichiers sonores : [sujet](/assets/sujets/es/1re/Enregistrement-1ereSon-Sujet.pdf)
-    - La numérisation et le stockage d'un son : [sujet](/assets/sujets/es/1re/NumerisationStockageSon-1ereSon-Sujet.pdf)
+    - Production d'un son : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf)
+    - Le son, de l'analogique au numérique : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/SonAnaNum-1ereSon-Sujet.pdf) - [corrigé](/assets/sujets/es/1re/1EnsSci-correction-SonAnaNum.pdf)
+    - Enregistrements de fichiers sonores : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Enregistrement-1ereSon-Sujet.pdf)
+    - La numérisation et le stockage d'un son : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/NumerisationStockageSon-1ereSon-Sujet.pdf)

@@ -45,9 +45,9 @@
 
 
 === ":material-clipboard-text-multiple: Sujets bac :material-clipboard-text-multiple:"
-    - Production d'un son : [sujet](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf) - [corrigé](/assets/sujets/es/1re/1EnsSci-Correction-ProductionSon.pdf)
-    - Masse tension fréquence : [sujet](/assets/sujets/es/1re/MasseTensionFrequence-1ereSon-Sujet.pdf)
-    - La guitare électrique : [sujet](/assets/sujets/es/1re/GuitareElectrique-1ereSon-Sujet.pdf)
+    - Production d'un son : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/ProductionSon-1ereSon-Sujet.pdf) - [corrigé](/assets/sujets/es/1re/1EnsSci-Correction-ProductionSon.pdf)
+    - Masse tension fréquence : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/MasseTensionFrequence-1ereSon-Sujet.pdf)
+    - La guitare électrique : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/GuitareElectrique-1ereSon-Sujet.pdf)
 
 === ":material-nintendo-game-boy: Animations :material-nintendo-game-boy:"
     <h2> Ondes : amplitude et fréquence</h2>

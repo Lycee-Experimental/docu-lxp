@@ -64,17 +64,20 @@
         - [Expert](https://www.lelivrescolaire.fr/page/5737745)
 
 ??? question "Sujet Bac"
-    - **L'énergie rayonnée par les étoiles et utilisation biologique du rayonnement solaire** [sujet](/assets/sujets/es/1re/EnergieEtoile.pdf) [:material-alpha-c-circle:](/assets/sujets/es/1re/correction/Correction-Lenergie-rayonnee-par-les-etoiles-et-utilisation-biologique-du-rayonnement-solaire.pdf)
-    - **Température moyenne de surface de la Terre** - [sujet](/assets/sujets/es/1re/TSurfaceTerre.pdf) - [indices](/assets/sujets/es/1re/TSurfaceTerre-indice.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-temperature-moyenne-de-la-surface-de-la-terre.pdf)
-    - **Le rayonnement solaire reçu sur Terre** : [sujet](/assets/sujets/es/1re/RayonnementSolaire.pdf) - [indices](/assets/sujets/es/1re/RayonnementSolaire-indice.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-le-rayonnement-solaire-recu-sur-terre.pdf)    
-    - **Seul sur Mars** - [sujet](/assets/sujets/es/1re/SeulMars.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-seul-sur-mars.pdf)
-    - **Le soleil, source de vie sur Terre ?** - [sujet](/assets/sujets/es/1re/SoleilVie.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-le-soleil-source-de-vie-sur-terre.pdf)
-    - **La Terre et Vénus, des planètes qui se ressemblent** - [sujet](/assets/sujets/es/1re/TerreVenus.pdf)[:material-alpha-c-circle:](/assets/sujets/es/1re/correction/correction-la-terre-et-venus-des-planetes-qui-se-ressemblent.pdf)             
+    :material-alpha-s-circle:{ .sujet} : Sujets  
+    :material-alpha-c-circle:{ .corrige } : Corrigés  
+    :material-alpha-i-circle:{ .indice } : Indices  
+    - **L'énergie rayonnée par les étoiles et utilisation biologique du rayonnement solaire** [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/EnergieEtoile.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/Correction-Lenergie-rayonnee-par-les-etoiles-et-utilisation-biologique-du-rayonnement-solaire.pdf)
+    - **Température moyenne de surface de la Terre** - [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/TSurfaceTerre.pdf) - [indices](/assets/sujets/es/1re/TSurfaceTerre-indice.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-temperature-moyenne-de-la-surface-de-la-terre.pdf)
+    - **Le rayonnement solaire reçu sur Terre** : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/RayonnementSolaire.pdf) - [indices](/assets/sujets/es/1re/RayonnementSolaire-indice.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-le-rayonnement-solaire-recu-sur-terre.pdf)    
+    - **Seul sur Mars** - [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/SeulMars.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-seul-sur-mars.pdf)
+    - **Le soleil, source de vie sur Terre ?** - [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/SoleilVie.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-le-soleil-source-de-vie-sur-terre.pdf)
+    - **La Terre et Vénus, des planètes qui se ressemblent** - [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/TerreVenus.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/1re/correction/correction-la-terre-et-venus-des-planetes-qui-se-ressemblent.pdf)             
 
     ??? failure "Plus au programme en 2024"
-        - Effet de serre et température terrestre : [sujet](/assets/sujets/es/1re/EffetSerre.pdf) - [indices](/assets/sujets/es/1re/EffetSerre-indice.pdf)
-        - L'énergie lumineuse et son utilisation par les algues - [sujet](/assets/sujets/es/1re/ElumineuseAlgues.pdf)
-        - La photosynthèse pour recharger nos batteries : [sujet](/assets/sujets/es/1re/Photosynthese.pdf)
-        - La pile végétale : [sujet](/assets/sujets/es/1re/PileVegetale.pdf)
-        - Températures de surface de quelques objets du système solaire : [sujet](/assets/sujets/es/1re/RayonSolaire.pdf)
+        - Effet de serre et température terrestre : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/EffetSerre.pdf) - [indices](/assets/sujets/es/1re/EffetSerre-indice.pdf)
+        - L'énergie lumineuse et son utilisation par les algues - [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/ElumineuseAlgues.pdf)
+        - La photosynthèse pour recharger nos batteries : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/Photosynthese.pdf)
+        - La pile végétale : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/PileVegetale.pdf)
+        - Températures de surface de quelques objets du système solaire : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/RayonSolaire.pdf)
                   

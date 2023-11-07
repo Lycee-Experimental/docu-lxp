@@ -46,17 +46,20 @@
 
 
 ??? question "Sujet BAC"
-    ??? note "L’île de Samsø : [sujet](/assets/sujets/es/term/Lîle-de-Samso.pdf) [:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-lile-de-samso.pdf)"
-    ??? note "L'agrivoltaïsme : [sujet](/assets/sujets/es/term/Agrivoltaisme-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-lagrivoltaisme.pdf)"
-    ??? note "Le complexe de Toco : [sujet](/assets/sujets/es/term/Le complexe de Toco.pdf) [:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-le-complexe-de-toco.pdf)"
-    ??? note "La solution hydrogène : [sujet](/assets/sujets/es/term/SolutionHydrogene-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-la-solution-hydrogene.pdf)"
-    ??? note "Capteur photovoltaïque : [sujet](/assets/sujets/es/term/CapteurPhotovoltaique-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-capteur-photovoltaique.pdf)"
-    ??? note "Energie – Éolienne, un choix d’avenir ? : [sujet](/assets/sujets/es/term/Eolienne-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-eolienne-un-choix-davenir.pdf)"
-    ??? note "Minimisation des pertes par effet Joule : [sujet](/assets/sujets/es/term/MinimisationPertesEffetJoule-TermEnergie-Sujet.pdf) [:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-minimisation-des-pertes-par-effet-joule.pdf)"
-    ??? note "Des sphères géantes immergées sous l’eau: [sujet](/assets/sujets/es/term/SpheresGeantes-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-des-spheres-geantes-immergees-sous-leau.pdf)"
-    ??? note "Transporter de l’énergie coûte de l’énergie ! : [sujet](/assets/sujets/es/term/TransporterE-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-transporter-de-lenergie-coute-de-lenergie.pdf)"
-    ??? note "Les impacts de la combustion sur l’environnement et la santé : [sujet](/assets/sujets/es/term/CombustionSante.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-les-impacts-de-la-combustion-sur-lenvironnement-et-la-sante.pdf)"
+    :material-alpha-s-circle:{ .sujet} : Sujets  
+    :material-alpha-c-circle:{ .corrige } : Corrigés  
+    :material-alpha-i-circle:{ .indice } : Indices  
+    ??? note "L’île de Samsø : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Lîle-de-Samso.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-lile-de-samso.pdf)"
+    ??? note "L'agrivoltaïsme : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Agrivoltaisme-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-lagrivoltaisme.pdf)"
+    ??? note "Le complexe de Toco : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Le complexe de Toco.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-le-complexe-de-toco.pdf)"
+    ??? note "La solution hydrogène : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/SolutionHydrogene-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-la-solution-hydrogene.pdf)"
+    ??? note "Capteur photovoltaïque : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/CapteurPhotovoltaique-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-capteur-photovoltaique.pdf)"
+    ??? note "Energie – Éolienne, un choix d’avenir ? : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Eolienne-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-eolienne-un-choix-davenir.pdf)"
+    ??? note "Minimisation des pertes par effet Joule : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/MinimisationPertesEffetJoule-TermEnergie-Sujet.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-minimisation-des-pertes-par-effet-joule.pdf)"
+    ??? note "Des sphères géantes immergées sous l’eau: [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/SpheresGeantes-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-des-spheres-geantes-immergees-sous-leau.pdf)"
+    ??? note "Transporter de l’énergie coûte de l’énergie ! : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/TransporterE-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-transporter-de-lenergie-coute-de-lenergie.pdf)"
+    ??? note "Les impacts de la combustion sur l’environnement et la santé : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/CombustionSante.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-les-impacts-de-la-combustion-sur-lenvironnement-et-la-sante.pdf)"
 
 
     ??? failure "Plus au programme"
-        - Les éoliennes et les chauves-souris : [sujet](/assets/sujets/es/term/EolienneChauvesSouris-TermEnergie-Sujet.pdf)
+        - Les éoliennes et les chauves-souris : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/EolienneChauvesSouris-TermEnergie-Sujet.pdf)

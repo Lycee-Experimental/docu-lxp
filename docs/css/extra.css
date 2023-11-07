@@ -1,3 +1,22 @@
+.sujet { color: red;
+  transition: transform 0.3s;
+}
+.sujet:hover { transform: scale(1.8);
+
+}
+.corrige { color: green;
+  transition: transform 0.3s;
+}
+.corrige:hover { transform: scale(1.8);
+
+}
+.indice { color: yellow;
+  transition: transform 0.3s;
+}
+.indice:hover { transform: scale(1.8);
+
+}
+
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {

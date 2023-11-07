@@ -45,4 +45,4 @@
         - [Étudier des variations](https://numeres.net/9782210112568/res/9782210112568-ht5-maths-1re-sesam/index2.html?graphe=5d373df43e72834de6d5d411)  
     === "Exos papier"
         [exo](http://kawazoo.free.fr/premiere/revisions/fct_expoE.pdf) et [correction](http://kawazoo.free.fr/premiere/revisions/fct_expoEC.pdf)
-        Calculs de dérivées avec la fonction exponentielle : [Sujet](http://www.mathgm.fr/images/documents/terminale/revisions/fct_expoE0.pdf), [Corrigé](http://www.mathgm.fr/images/documents/terminale/revisions/fct_expoE0C.pdf) 
+        Calculs de dérivées avec la fonction exponentielle : [:material-alpha-s-circle:{ .sujet }](http://www.mathgm.fr/images/documents/terminale/revisions/fct_expoE0.pdf), [Corrigé](http://www.mathgm.fr/images/documents/terminale/revisions/fct_expoE0C.pdf) 

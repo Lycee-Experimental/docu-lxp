@@ -124,46 +124,50 @@
 
 
 ??? question "Sujet BAC"
-    ??? note "Autotest de dépistage du VIH : [sujet](/assets/sujets/es/term/AutotestVIH.pdf) [:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-autotest-de-depistage-du-vih.pdf)"
+    :material-alpha-s-circle:{ .sujet} : Sujets  
+    :material-alpha-c-circle:{ .corrige } : Corrigés  
+    :material-alpha-i-circle:{ .indice } : Indices  
+    
+    ??? note "Autotest de dépistage du VIH : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/AutotestVIH.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-autotest-de-depistage-du-vih.pdf)"
         **Notions :** Test de dépistage, probabilité, fréquence, tableau de contingence, pourcentages.  
         **Compétences** : calculer une fréquence, compléter un tableau de contingence, appliquer un pourcentage.  
-    ??? note "Dépistage et évolution du VIH - [sujet](/assets/sujets/es/term/Dépistage-et-évolution-du-VIH.pdf) [:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-depistage-et-evolution-du-vih.pdf)"
+    ??? note "Dépistage et évolution du VIH - [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Dépistage-et-évolution-du-VIH.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-depistage-et-evolution-du-vih.pdf)"
         **Notions :** Taux de mutation des virus, vaccinnation, test de dépistage, probabilité, tableau de contingence, prévalence, pourcentages.  
         **Compétences** : Appliquer une règle de proportionnalité à partir de la légende d'un graphique, discuter l'efficacité d'un vaccin en fonction du taux de mutation d'un virus, calculer une prévalence à partir d'un tableau de contingence, compléter un tableau de contingence.
-    ??? note "Notre parent, le « Hobbit »... : [sujet](/assets/sujets/es/term/ParentHobbit.pdf)  [:material-alpha-c-circle:](/assets/sujets/es/term/correction/Correction-Notre-parent-le-Hobbit-…-Enseignement-scientifique-Terminale.pdf)"
+    ??? note "Notre parent, le « Hobbit »... : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/ParentHobbit.pdf)  [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/Correction-Notre-parent-le-Hobbit-…-Enseignement-scientifique-Terminale.pdf)"
         **Notions :** Evolution, lien de parenté, caractéristiques anatomiques des hominidés, arbre phylogénique.  
         **Compétences** : Extraire des informations de documents pour rédiger des paragraphes argumentés.   
-    ??? note "Le crapaud sonneur à ventre jaune : [sujet](/assets/sujets/es/term/CrapaudVentreJaune.pdf)  [:material-alpha-c-circle:](/assets/sujets/es/term/correction/Correction-Le-crapaud-sonneur-a-ventre-jaune-Enseignement-scientifique-Terminale.pdf)"
+    ??? note "Le crapaud sonneur à ventre jaune : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/CrapaudVentreJaune.pdf)  [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/Correction-Le-crapaud-sonneur-a-ventre-jaune-Enseignement-scientifique-Terminale.pdf)"
         **Notions :** Méthode de Capture/Marquage/Recapture, probabilité, fréquence, abondance, intervale de confiance, pressions sur la biodiversité, mesure de protection/conservation.  
         **Compétences** : Expliquer la CMR, calculer fréquences et abondance, déterminer un intervale de confiance, émettre des hypothèses sur l'évolution de l'abondance d'une espèce, proposer des mesures de protection.   
-    ??? note "Invasion de sangliers à Fontainebleau : [sujet](/assets/sujets/es/term/Sangliers.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-invasion-de-sangliers-a-fontainebleau.pdf)"
+    ??? note "Invasion de sangliers à Fontainebleau : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Sangliers.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-invasion-de-sangliers-a-fontainebleau.pdf)"
         **Notions :** Méthode de Capture/Marquage/Recapture, probabilité, fréquence, abondance, intervale de confiance, pressions sur la biodiversité, mesure de protection/conservation.   
         **Compétences** : Expliquer la CMR, calculer fréquences et abondance, émettre des hypothèses sur l'évolution de l'abondance d'une espèce.
-    ??? note "Des moustiques résistants aux insecticides : [sujet](/assets/sujets/es/term/MoustiquesResistants.pdf)  [:material-alpha-c-circle:](/assets/sujets/es/term/correction/Correction-Des-moustiques-resistants-aux-insecticides-Enseignement-scientifique-Terminale.pdf)"
+    ??? note "Des moustiques résistants aux insecticides : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/MoustiquesResistants.pdf)  [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/Correction-Des-moustiques-resistants-aux-insecticides-Enseignement-scientifique-Terminale.pdf)"
         **Notions :** Génétique, allèle, gène, enzyme, modèle Hardy-Weinberg, fréquence allélique, génotypique, force évolutive.  
         **Compétences** : Expliquer les facteurs génétiques de la résistance à un insecticide à l'aide de documents, calculer des fréquences alléliques et génotypiques, comparer avec le modèle Hardy-Weinberg, lister différents facteurs de la force évolutive.
-    ??? note "La dengue, une maladie transmise par les moustiques : [sujet](/assets/sujets/es/term/Dengue.pdf)  [:material-alpha-c-circle:](/assets/sujets/es/term/correction/Correction-La-dengue-une-maladie-transmise-par-les-moustiques-Enseignement-scientifique-Terminale.pdf)"
+    ??? note "La dengue, une maladie transmise par les moustiques : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Dengue.pdf)  [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/Correction-La-dengue-une-maladie-transmise-par-les-moustiques-Enseignement-scientifique-Terminale.pdf)"
         **Notions :** Test de dépistage, probabilité, fréquence, tableau de contingence, pourcentages, intervale de confiance.  
         **Compétences** : calculer une fréquence, compléter un tableau de contingence, comparer des données en tenant compte de leur intervale de confiance.
-    ??? note "Population de la France métropolitaine de 1946 à 2050 : [sujet](/assets/sujets/es/term/Sujet-PopulationFrance.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-population-de-la-france-metropolitaine-de-1946-a-2050.pdf)"
+    ??? note "Population de la France métropolitaine de 1946 à 2050 : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Sujet-PopulationFrance.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-population-de-la-france-metropolitaine-de-1946-a-2050.pdf)"
         **Notions :** Démographie, tableau de donnée et représentation graphique, ajustement affine, équation de droite, rang d'une suite arithmétique.  
         **Compétences** : identifier la représentation graphique d'une droite d'ajustement affine, déterminer le rang d'un terme d'une suite à partir d'un tableau de données, déterminer le terme d'un rang donné, comparer un modèle avec des valeurs réelles, compléter un programme Python, résoudre une équation affine.
-    ??? note "Étude démographique de la population en Afrique du Sud : [sujet](/assets/sujets/es/term/PopulationAfSud.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-etude-demographique-de-la-population-en-afrique-du-sud.pdf)"
+    ??? note "Étude démographique de la population en Afrique du Sud : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/PopulationAfSud.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-etude-demographique-de-la-population-en-afrique-du-sud.pdf)"
         **Notions :** Démographie, suite géométrique, rang d'une suite, logarithme népérien, taux d'accoissement .  
         **Compétences** : reconnaitre les conditions d'une suite géométrique, déterminer le terme d'un rang donné, comparer un modèle avec des valeurs réelles, résoudre une équation un utilisant de logarithme népérien, calculer un taux d'accroissement, expliquer l'évolution du taux de mortalité à l'aide de documents.  
-    ??? note "Les conséquences de la déforestation à Bornéo sur les populations d’orangs-outans - [sujet](/assets/sujets/es/term/Les-conséquences-de-la-déforestation-à-Bornéo-sur-les-populations-dorangs-outans.pdf)"[:material-alpha-c-circle:](/assets/sujets/es/term/correction/Correction-Les-consequences-de-la-deforestation-a-Borneo-sur-les-populations-dorangs-outans-Enseignement-scientifique.pdf)"
+    ??? note "Les conséquences de la déforestation à Bornéo sur les populations d’orangs-outans - [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Les-conséquences-de-la-déforestation-à-Bornéo-sur-les-populations-dorangs-outans.pdf)"[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/Correction-Les-consequences-de-la-deforestation-a-Borneo-sur-les-populations-dorangs-outans-Enseignement-scientifique.pdf)"
         **Notions :** Superficie, pourcentage, fréquence allélique, dérive génétique, fragmentation de l'habitat, mesure de protection.   
         **Compétences** : Calculer une superficie, un pourcentage, relier fréquences alléliques, taille de la population et dérive génétique, expliquer en quoi la fragmentation de l'habitat réduit la diversité génétique, et comment la préserver.  
-    ??? note "Le parc de Yellowstone : un laboratoire grandeur nature pour l’étude des populations : [sujet](/assets/sujets/es/term/YellowStone.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-le-parc-de-yellowstone-un-laboratoire-grandeur-nature-pour-letude-des-populations.pdf)"
+    ??? note "Le parc de Yellowstone : un laboratoire grandeur nature pour l’étude des populations : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/YellowStone.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-le-parc-de-yellowstone-un-laboratoire-grandeur-nature-pour-letude-des-populations.pdf)"
         **Notions :** Graphiques en barres, suite arythmétique, géométrique, génétique, génotype, allèle, modèle Hardy-Weinberg.   
         **Compétences** : Reconnaitre le type de suite à partir d'un graphique, formuler une hypothèse sur la diminution d'une population, analyser des fréquences génotypiques, calculer des fréquences alléliques et génotypique, comparer des fréquences au modèle Hardy-Weinberg.  
-    ??? note "Les conséquences de la géographie naturelle de l’île de Bornéo et de la déforestation sur les populations d’orangs-outans : [sujet](/assets/sujets/es/term/OrangOutans.pdf)  [:material-alpha-c-circle:](/assets/sujets/es/term/correction/Correction-Les-conséquences-de-la-géographie-naturelle-de-lîle-de-Bornéo-et-de-la-déforestation-sur-les-populations-dorangs-outans-Enseignement-scientifique.pdf)"
+    ??? note "Les conséquences de la géographie naturelle de l’île de Bornéo et de la déforestation sur les populations d’orangs-outans : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/OrangOutans.pdf)  [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/Correction-Les-conséquences-de-la-géographie-naturelle-de-lîle-de-Bornéo-et-de-la-déforestation-sur-les-populations-dorangs-outans-Enseignement-scientifique.pdf)"
         **Notions :** Superficie, pourcentage, fréquence allélique, dérive génétique, fragmentation de l'habitat, mesure de protection.   
         **Compétences** : Calculer une superficie, un pourcentage, relier fréquences alléliques, taille de la population et dérive génétique, expliquer en quoi la fragmentation de l'habitat réduit la diversité génétique, et comment la préserver.  
 
     ??? failure "Plus au programme"
-        - L’évolution humaine : [sujet](/assets/sujets/es/term/EvolutionHumaine.pdf)      
-        - Un service de streaming musical : [sujet](/assets/sujets/es/term/StreamingMusical.pdf)[:material-alpha-c-circle:](/assets/sujets/es/term/correction/correction-un-service-de-streaming-musical.pdf)
-        - Les éoliennes et les chauves-souris : [sujet](/assets/sujets/es/term/Eolienne-ChauvesSouris.pdf)         
-        - La lutte contre un ravageur des cultures : [sujet](/assets/sujets/es/term/RavageurCultures.pdf)
+        - L’évolution humaine : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/EvolutionHumaine.pdf)      
+        - Un service de streaming musical : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/StreamingMusical.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-un-service-de-streaming-musical.pdf)
+        - Les éoliennes et les chauves-souris : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Eolienne-ChauvesSouris.pdf)         
+        - La lutte contre un ravageur des cultures : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/RavageurCultures.pdf)
 

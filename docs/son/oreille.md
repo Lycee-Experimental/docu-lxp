@@ -18,9 +18,9 @@
 
 
 === ":material-clipboard-text-multiple: Sujets bac :material-clipboard-text-multiple:"
-    - Pertes auditives après un concert : [sujet](/assets/sujets/es/1re/AuditionConcert-1ereSon-Sujet.pdf) - [indices](/assets/sujets/es/1re/AuditionConcert-1ereSon-Indices.pdf)
-        - Un décret qui fait grand bruit : [sujet](/assets/sujets/es/1re/AuditionDecret-1ereSon-Sujet.pdf)
-        - L'oreille et l'audition : [sujet](/assets/sujets/es/1re/OreilleAudition-1ereSon-Sujet.pdf) - [corrigé](/assets/sujets/es/1re/1EnsSci-Correction-OreilleAudition.pdf)
-        - Les dangers des sons : [sujet](/assets/sujets/es/1re/DangerSon-1ereSon-Sujet.pdf)
-        - Prévention d'un traumatisme accoustique : [sujet](/assets/sujets/es/1re/TraumatismeAcoustique-1ereSon-Sujet.pdf) - [corrigé](/assets/sujets/es/1re/1EnsSci-Correction-TraumatismeAcoustique.pdf)
-        - Implant cochléaire : [sujet](/assets/sujets/es/1re/ImplantCochleaire-1ereSon-Sujet.pdf)
+    - Pertes auditives après un concert : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AuditionConcert-1ereSon-Sujet.pdf) - [indices](/assets/sujets/es/1re/AuditionConcert-1ereSon-Indices.pdf)
+        - Un décret qui fait grand bruit : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/AuditionDecret-1ereSon-Sujet.pdf)
+        - L'oreille et l'audition : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/OreilleAudition-1ereSon-Sujet.pdf) - [corrigé](/assets/sujets/es/1re/1EnsSci-Correction-OreilleAudition.pdf)
+        - Les dangers des sons : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/DangerSon-1ereSon-Sujet.pdf)
+        - Prévention d'un traumatisme accoustique : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/TraumatismeAcoustique-1ereSon-Sujet.pdf) - [corrigé](/assets/sujets/es/1re/1EnsSci-Correction-TraumatismeAcoustique.pdf)
+        - Implant cochléaire : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/1re/ImplantCochleaire-1ereSon-Sujet.pdf)
