@@ -45,8 +45,6 @@
 
         **Produit ionique de l'eau et pH**
         ![type:video](https://www.youtube.com/embed/oHkRozsd9VI)
-<<<<<<< HEAD
-=======
 
 
     ??? video "Nicolas Galiot"
@@ -78,7 +76,6 @@
 
         **Transformations acide-base et le potentiel hydrogène (ph)**
         ![type:video](https://www.youtube.com/embed/E0bnquDXzmQ)
->>>>>>> b1fa50b01a442e56a4bce0feab0d6fee283e39b6
 
 
     ??? video "Nicolas Galiot"
@@ -138,10 +135,7 @@
             height="600"
             allowfullscreen>
     </iframe>
-<<<<<<< HEAD
 
 === "Sujets BAC"
 
     Sujets corrigés sur le site de [LaboLycée](https://www.labolycee.org/acide-base)
-=======
->>>>>>> b1fa50b01a442e56a4bce0feab0d6fee283e39b6
