@@ -45,6 +45,40 @@
 
         **Produit ionique de l'eau et pH**
         ![type:video](https://www.youtube.com/embed/oHkRozsd9VI)
+<<<<<<< HEAD
+=======
+
+
+    ??? video "Nicolas Galiot"
+        - **Les transformations acide-base**
+        ![type:video](https://www.youtube.com/embed/8qW3PNLwM2c)
+
+        - **Le pH - Analyser un système chimique par des méthodes physiques**
+        ![type:video](https://www.youtube.com/embed/cicghHgo514)
+
+        - **Les titrages**
+        ![type:video](https://www.youtube.com/embed/RyIWIP1DyHo)
+
+        - **La Loi de Kolhrausch**
+        ![type:video](https://www.youtube.com/embed/93UMpTEDDIs)        
+
+    ??? video "Playlist e-profs"
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=IPC5gyq4O-I-pOcn&amp;list=PLfhwM6-fGWEGe12j-I8zTKWRd2ZwFdwi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    ??? video "Synthèse de Florence Raffin"
+
+        ![type:video](https://www.youtube.com/embed/aE9iLeQNu7I)
+
+
+    ??? video "Les génies des sciences"
+
+        **Comparer la force des acides et des bases (constante d'acidité)**
+        ![type:video](https://www.youtube.com/embed/xp8-BfS0oqw)
+
+        **Transformations acide-base et le potentiel hydrogène (ph)**
+        ![type:video](https://www.youtube.com/embed/E0bnquDXzmQ)
+>>>>>>> b1fa50b01a442e56a4bce0feab0d6fee283e39b6
 
 
     ??? video "Nicolas Galiot"
@@ -104,7 +138,10 @@
             height="600"
             allowfullscreen>
     </iframe>
+<<<<<<< HEAD
 
 === "Sujets BAC"
 
     Sujets corrigés sur le site de [LaboLycée](https://www.labolycee.org/acide-base)
+=======
+>>>>>>> b1fa50b01a442e56a4bce0feab0d6fee283e39b6
