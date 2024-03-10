@@ -49,8 +49,8 @@
     :material-alpha-s-circle:{ .sujet} : Sujets  
     :material-alpha-c-circle:{ .corrige } : Corrigés  
     :material-alpha-i-circle:{ .indice } : Indices  
-    ??? note "L’île de Samsø : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Lîle-de-Samso.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-lile-de-samso.pdf)"
-    ??? note "L'agrivoltaïsme : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Agrivoltaisme-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-lagrivoltaisme.pdf)"
+    ??? note "L’île de Samsø : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Lîle-de-Samso.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-lile-de-samso.pdf) [:material-alpha-i-circle:{ .indice }](/assets/sujets/es/term/indices/1_Indices_IleSamso.pdf)"
+    ??? note "L'agrivoltaïsme : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Agrivoltaisme-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-lagrivoltaisme.pdf) [:material-alpha-i-circle:{ .indice }](/assets/sujets/es/term/indices/2_Indices_Agrovoltaïsme.pdf)"
     ??? note "Le complexe de Toco : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/Le complexe de Toco.pdf) [:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-le-complexe-de-toco.pdf)"
     ??? note "La solution hydrogène : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/SolutionHydrogene-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-la-solution-hydrogene.pdf)"
     ??? note "Capteur photovoltaïque : [:material-alpha-s-circle:{ .sujet }](/assets/sujets/es/term/CapteurPhotovoltaique-TermEnergie-Sujet.pdf)[:material-alpha-c-circle:{ .corrige }](/assets/sujets/es/term/correction/correction-capteur-photovoltaique.pdf)"
