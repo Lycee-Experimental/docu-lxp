@@ -11,6 +11,32 @@
         - [Initié](https://www.lelivrescolaire.fr/page/5737869)
         - [Expert](https://www.lelivrescolaire.fr/page/5737863)
 
+    === ":material-nintendo-game-boy: Animations :material-nintendo-game-boy:"
+        **Ondes : amplitude et fréquence**
+
+        <iframe src="https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_fr.html"
+                width="800"
+                height="600"
+                allowfullscreen>
+        </iframe>
+
+        **Sons composés et spectres**
+
+        <iframe src="https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_fr.html"
+                width="800"
+                height="600"
+                allowfullscreen>
+        </iframe>
+
+        **Fréquence de résonance d'une corde**
+        !!! info "Consigne"
+            Fixer l'amortissement de l'onde à 0 et chercher la fréquence de résonance pour une tension de corde donnée"
+            
+        <iframe src="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_fr.html"
+                width="800"
+                height="600"
+                allowfullscreen>
+        </iframe>
 ??? abstract "Musique et nombres"
     === ":material-movie-open: Vidéos :material-movie-open:"
         ![type:video](https://www.youtube.com/embed/hrymB25otZI)
