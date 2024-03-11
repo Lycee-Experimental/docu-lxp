@@ -38,7 +38,7 @@
                 allowfullscreen>
         </iframe>
     
-    === ":material-sound: Sons à analyser :material-sound:"
+    === ":material-music-note: Sons à analyser :material-music-note:"
         - [La4 du saxophone](./La4-saxo.mp3)
         - [La4 de la guitare](./La4-guitare.mp3)
         - [La4 du diapason](./La4-diapason.mp3)
