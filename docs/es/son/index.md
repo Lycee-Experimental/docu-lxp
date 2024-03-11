@@ -37,6 +37,13 @@
                 height="600"
                 allowfullscreen>
         </iframe>
+    
+    === ":material-sound: Sons à analyser :material-sound:"
+        - [La4 du saxophone](./La4-saxo.mp3)
+        - [La4 de la guitare](./La4-guitare.mp3)
+        - [La4 du diapason](./La4-diapason.mp3)
+        - [La4 du piano](./La4-piano.mp3)
+        - [Si4 de la guitare](./Si4-guitare.mp3)
 ??? abstract "Musique et nombres"
     === ":material-movie-open: Vidéos :material-movie-open:"
         ![type:video](https://www.youtube.com/embed/hrymB25otZI)
